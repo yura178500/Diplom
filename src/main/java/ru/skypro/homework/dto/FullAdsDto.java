@@ -22,4 +22,5 @@ public class FullAdsDto {
     private int price;
 
     private String title;
+
 }

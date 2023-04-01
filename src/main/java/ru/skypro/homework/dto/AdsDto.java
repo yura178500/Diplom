@@ -22,5 +22,4 @@ public class AdsDto {
 
     @NotBlank
     @Size(min = 8)
-    private String description;
-}
+    private String description;}

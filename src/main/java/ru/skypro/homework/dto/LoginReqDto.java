@@ -19,4 +19,5 @@ public class LoginReqDto {
     @NotBlank
     @Size(min = 8)
     private String password;
+
 }

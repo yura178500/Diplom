@@ -43,6 +43,7 @@ public class UserController {
                     )
             },
             tags = "Users"
+
     )
     @PostMapping
     public ResponseEntity<UserDto> addUser(@RequestBody CreateUserDto createUserDto) {

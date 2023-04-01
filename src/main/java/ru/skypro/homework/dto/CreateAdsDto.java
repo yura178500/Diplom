@@ -21,4 +21,5 @@ public class CreateAdsDto {
     @NotBlank
     @Size(min = 8)
     private String title;
+
 }

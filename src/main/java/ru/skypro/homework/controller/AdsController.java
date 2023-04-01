@@ -53,6 +53,7 @@ public class AdsController {
                     )
             },
             tags = "Ads"
+
     )
     @GetMapping
     public ResponseWrapper<AdsDto> getAllAds() {

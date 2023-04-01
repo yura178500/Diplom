@@ -49,6 +49,7 @@ public class AuthController {
                     )
             },
             tags = "Users"
+
     )
     @PostMapping("/login")
     public ResponseEntity<Void> login(@Valid @RequestBody LoginReqDto req) {

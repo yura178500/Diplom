@@ -15,4 +15,5 @@ public class NewPasswordDto {
     @NotBlank
     @Size(min = 8)
     private String newPassword;
+
 }

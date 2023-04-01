@@ -17,4 +17,5 @@ public class AdsCommentDto {
     @NotBlank
     @Size(min = 8)
     private String text;
+
 }

@@ -32,4 +32,5 @@ public class CreateUserDto {
 
     @Pattern(regexp = PHONE_REGEXP)
     private String phone;
+
 }
