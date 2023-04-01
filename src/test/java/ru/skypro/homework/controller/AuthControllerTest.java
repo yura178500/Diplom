@@ -31,6 +31,7 @@ class AuthControllerTest {
     @MockBean
     private UserMapper userMapper;
 
+
     @Autowired
     AuthControllerTest(WebApplicationContext webApplicationContext, ObjectMapper objectMapper) {
         this.mockMvc = MockMvcBuilders.webAppContextSetup(webApplicationContext).build();

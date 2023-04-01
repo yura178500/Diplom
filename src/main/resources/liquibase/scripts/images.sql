@@ -18,6 +18,7 @@ ALTER TABLE ads
 ALTER TABLE image
 ADD COLUMN ads_id integer REFERENCES ads (id);
 
+
 --changeset bbazarov:2
 ALTER TABLE image
 ADD COLUMN file_path VARCHAR NOT NULL;

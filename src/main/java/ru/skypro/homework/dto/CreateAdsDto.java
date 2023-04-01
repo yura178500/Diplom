@@ -8,6 +8,7 @@ import javax.validation.constraints.Size;
 @Data
 public class CreateAdsDto {
 
+
     @NotBlank
     @Size(min = 8)
     private String description;

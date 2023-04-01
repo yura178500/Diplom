@@ -8,6 +8,7 @@ import javax.validation.constraints.Size;
 @Data
 public class AdsDto {
 
+
     private int pk;
 
     private int author;

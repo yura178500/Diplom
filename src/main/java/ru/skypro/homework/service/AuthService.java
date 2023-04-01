@@ -11,6 +11,7 @@ public interface AuthService {
      * @param username Логин (email)
      * @param password Пароль
      */
+
     void login(String username, String password);
 
     /**

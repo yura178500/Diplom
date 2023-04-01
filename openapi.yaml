@@ -20,6 +20,7 @@ tags:
 paths:
   /ads:
     get:
+
       operationId: getALLAdsUsingGET
       responses:
         "200":

@@ -24,4 +24,5 @@ public interface UserMapper extends WebMapper<UserDto, User> {
     @Mapping(source = "username", target = "email")
     User toEntity(RegisterReqDto dto);
 
+
 }

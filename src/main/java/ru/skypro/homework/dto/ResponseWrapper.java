@@ -8,6 +8,7 @@ import java.util.List;
 @Data
 public class ResponseWrapper<T> {
 
+
     private int count;
 
     private Collection<T> results;

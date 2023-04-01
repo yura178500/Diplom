@@ -21,6 +21,7 @@ public interface ImageService {
     /**
      * Обновление картинки объявления
      */
+
     AdsDto updateImage(MultipartFile imageFile, Authentication authentication, long adsId) throws IOException;
 
     /**

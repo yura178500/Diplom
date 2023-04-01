@@ -31,6 +31,7 @@ public class UserDetailsServiceImpl implements UserDetailsService, UserDetailsPa
     }
 
     @Override
+
     public UserDetails updatePassword(UserDetails userDetails, String newPassword) {
         User user = getUserByUsername(userDetails.getUsername());
 

@@ -5,6 +5,7 @@ import lombok.Data;
 @Data
 public class FullAdsDto {
 
+
     private String authorFirstName;
 
     private String authorLastName;

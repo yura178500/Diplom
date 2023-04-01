@@ -5,6 +5,7 @@ import org.hibernate.annotations.Type;
 
 import javax.persistence.*;
 
+
 /**
  * Class of Image (advertisement image/изображение в объявлениях).
  */

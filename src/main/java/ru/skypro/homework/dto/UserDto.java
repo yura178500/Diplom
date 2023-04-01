@@ -14,6 +14,7 @@ import static ru.skypro.homework.constant.Regexp.PHONE_REGEXP;
 @Data
 public class UserDto {
 
+
     private int id;
 
     @Email(regexp = EMAIL_REGEXP)

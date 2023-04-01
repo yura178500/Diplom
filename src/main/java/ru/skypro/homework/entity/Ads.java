@@ -4,6 +4,7 @@ import lombok.*;
 
 import javax.persistence.*;
 
+
 /**
  * Class of Ads (advertisement/объявление).
  */

@@ -5,6 +5,7 @@ import lombok.*;
 import javax.persistence.*;
 import java.time.LocalDateTime;
 
+
 /**
  * Class of AdsComment (advertisement comment/комментарий в объявлениях).
  */

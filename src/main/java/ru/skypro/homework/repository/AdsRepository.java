@@ -11,4 +11,5 @@ import java.util.List;
 public interface AdsRepository extends JpaRepository<Ads, Long> {
 
     List<Ads> findAllByAuthorId(long id);
+
 }

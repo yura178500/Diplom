@@ -21,6 +21,7 @@ import javax.validation.ValidationException;
 @Transactional
 @RequiredArgsConstructor
 @Service
+
 public class AuthServiceImpl implements AuthService {
     Logger logger = LoggerFactory.getLogger(AuthServiceImpl.class);
 

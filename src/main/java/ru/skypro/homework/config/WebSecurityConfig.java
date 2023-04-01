@@ -24,6 +24,7 @@ public class WebSecurityConfig {
             "/register"
     };
 
+
     @Bean
     public SecurityFilterChain filterChain(HttpSecurity http) throws Exception {
         return http

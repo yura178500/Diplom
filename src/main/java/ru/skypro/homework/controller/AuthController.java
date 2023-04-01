@@ -30,6 +30,7 @@ import javax.validation.Valid;
 @Tag(name = "Авторизация", description = "AuthController")
 public class AuthController {
 
+
     Logger logger = LoggerFactory.getLogger(AuthController.class);
 
 

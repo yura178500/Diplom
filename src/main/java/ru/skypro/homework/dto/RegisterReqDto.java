@@ -14,6 +14,7 @@ import static ru.skypro.homework.constant.Regexp.PHONE_REGEXP;
 @Data
 public class RegisterReqDto {
 
+
     @Email(regexp = EMAIL_REGEXP)
     @Schema(example = "user@user.ru")
     private String username;

@@ -34,6 +34,7 @@ import javax.validation.Valid;
 @Tag(name = "Объявления", description = "AdsController")
 public class AdsController {
 
+
     Logger logger = LoggerFactory.getLogger(AdsController.class);
 
 

@@ -1,7 +1,7 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://user-images.githubusercontent.com/113195869/227241982-c8ed6f37-0fd0-4333-9fc1-e2f266221a7b.png" width="400" alt="Laravel Logo"></a></p>
 
 # (RU) Дипломный проект
-## Групповая дипломная работа. Поток - DSprint 3.0.
+## Групповая дипломная работа.
 
 Задачей команды было написать бекенд-часть сайта на Java для готовой фронтенд части и реализовать следующий функционал:
 
@@ -16,15 +16,12 @@ CRUD для объявлений на сайте: администратор м�
 ## Техническое задание проекта:
 - [ТЗ](https://skyengpublic.notion.site/02df5c2390684e3da20c7a696f5d463d)
 
-## Комада разработчиков "Java Talents":
+## Комада разработчиков ""javaDevFour"":
 
- - [Дениева Екатерина Юрьевна](https://github.com/Katy7711)
- - [Субботин Николай Юрьевич](https://github.com/nusubbotin/)
- - [Базаров Булат Владимирович](https://github.com/qwsq4)
- - [Алексеев Артем Александрович](https://github.com/ArtemA1ekseev)
- - [Гатин Ильнур Харисович](https://github.com/ilnurGatin)
- - [Бурцева Мария Михайловна](https://github.com/Marikarumba)
- - [Руднев Сергей Алексеевич](https://github.com/Kanat24)
+ - [Заиграева Ольга](https://github.com/olgazaigraewa)
+ - [Мухаметзянов Эдуард](https://github.com/Edward-Kazan-Skypro)
+ - [Решетов Юрий](https://github.com/yura178500)
+ 
  
 ## Стек технологий:
 **В проекте используются**:
@@ -61,7 +58,7 @@ CRUD для объявлений на сайте: администратор м�
 ------
  
 # (EN) Graduation project
-## Group diploma work. The stream is DSprint 3.0.
+## Group diploma work.
 
 The task of the team was to write the backend part of the site in Java for the finished frontend part and implement the following functionality:
 
@@ -76,15 +73,11 @@ The [Openapi](https://drive.google.com/file/d/1NInRupH5y59DMAFvUDcd2C0kIWaMk93Q/
 ## Technical specification of the project:
 - [TS](https://skyengpublic.notion.site/02df5c2390684e3da20c7a696f5d463d)
 
-## The development team "Java Talents":
+## The development team ""javaDevFour"":
 
- - [Genieva Ekaterina Yurievna](https://github.com/Katy7711)
- - [Subbotin Nikolay Yurievich](https://github.com/nusubbotin/)
- - [Bazarov Bulat Vladimirovich](https://github.com/qwsq4)
- - [Alekseyev Artem Alexandrovich](https://github.com/ArtemA1ekseev)
- - [Gatin Ilnur Kharisovich](https://github.com/ilnurGatin)
- - [Burtseva Maria Mikhailovna](https://github.com/Marikarumba)
- - [Rudnev Sergey Alekseevich](https://github.com/Karat24)
+- [Заиграева Ольга](https://github.com/olgazaigraewa)
+- [Мухаметзянов Эдуард](https://github.com/Edward-Kazan-Skypro)
+- [Решетов Юрий](https://github.com/yura178500)
  
 ## Technology stack:
 **The project uses**:

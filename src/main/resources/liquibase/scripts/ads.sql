@@ -9,4 +9,5 @@ CREATE TABLE IF NOT EXISTS ads
     price       int  NOT NULL,
     title       varchar,
     description text NOT NULL
+
 );

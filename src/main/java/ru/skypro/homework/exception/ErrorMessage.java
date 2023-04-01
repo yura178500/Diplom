@@ -11,6 +11,7 @@ import java.time.LocalDateTime;
 @Getter
 public class ErrorMessage {
 
+
     private final int statusCode;
 
     private final LocalDateTime timestamp;

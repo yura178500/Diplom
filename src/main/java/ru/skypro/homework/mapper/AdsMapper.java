@@ -13,6 +13,7 @@ import ru.skypro.homework.entity.Ads;
 @Mapper
 public interface AdsMapper extends WebMapper<AdsDto, Ads> {
 
+
     @Override
     @Mapping(target = "author.id", source = "author")
     @Mapping(target = "image", ignore = true)

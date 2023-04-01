@@ -35,6 +35,7 @@ import java.util.stream.Collectors;
 @Transactional
 @RequiredArgsConstructor
 @Service
+
 public class AdsServiceImpl implements AdsService {
     Logger logger = LoggerFactory.getLogger(AdsServiceImpl.class);
 

@@ -36,6 +36,7 @@ public class ImageServiceImpl implements ImageService {
     Logger logger = LoggerFactory.getLogger(ImageServiceImpl.class);
 
     @Value("${path.to.images.folder}")
+
     private String imagesDir;
 
     private final ImageRepository imagesRepository;

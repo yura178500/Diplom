@@ -22,6 +22,7 @@
         <mapstruct.version>1.5.2.Final</mapstruct.version>
     </properties>
 
+
     <dependencies>
         <!-- Spring Boot Starters -->
         <dependency>

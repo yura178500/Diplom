@@ -23,6 +23,7 @@ public interface AdsService {
      * @param imageFile    Картинка объявления
      * @return Ads
      */
+
     AdsDto createAds(CreateAdsDto createAdsDto, MultipartFile imageFile) throws IOException;
 
     /**

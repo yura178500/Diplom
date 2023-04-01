@@ -5,6 +5,7 @@ import ru.skypro.homework.dto.Role;
 
 import javax.persistence.*;
 
+
 /**
  * Class of User (user/пользователь).
  */

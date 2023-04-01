@@ -31,6 +31,7 @@ import static ru.skypro.homework.dto.Role.USER;
 @Service
 public class UserServiceImpl implements UserService {
 
+
     Logger logger = LoggerFactory.getLogger(UserServiceImpl.class);
 
     private final UserRepository userRepository;

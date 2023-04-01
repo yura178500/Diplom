@@ -18,6 +18,7 @@ public interface UserService {
      * @param createUserDto Объект пользователя для передачи данных
      * @return User Созданный пользователь
      */
+
     UserDto createUser(CreateUserDto createUserDto);
 
     /**

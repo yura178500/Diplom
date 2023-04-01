@@ -53,6 +53,7 @@ class AdsControllerTest {
     @MockBean
     private AdsServiceImpl adsService;
 
+
     @MockBean
     private ImageService imagesService;
 
