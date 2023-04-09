@@ -1,6 +1,6 @@
 -- liquibase formatted sql
 
--- changeset aalekseev:1
+-- changeset aalekseev:4
 
 CREATE TABLE IF NOT EXISTS ads_comment
 (
